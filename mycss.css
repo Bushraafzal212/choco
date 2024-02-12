@@ -111,7 +111,7 @@ transform: scale(1.2);
 .imagebox:hover{
     transform: scale(1.2);
 }
-div{
+form{
     font-size: 20px;
     margin: 100px;
     display: flex;
